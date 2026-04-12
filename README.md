@@ -1,4 +1,13 @@
 ## Hi there 👋
+- 📊 I’m currently working on Data Analysis / Data Science projects.
+- 🚀My main technologies are <p>
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=icloud&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-DD0031?style=for-the-badge&logo=trino&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+
 
 <!--
 **Felipe-Aron/Felipe-Aron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
