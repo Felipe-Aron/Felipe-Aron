@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 📊 I’m currently working on Data Analysis / Data Science projects.
+
+- 📊 For the last few years, I have been working on Data Analysis / Data Science projects at work. Now I am bringing my own independent projects here.
 - 🚀My main technologies are <p>
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=icloud&logoColor=white)
 ![Trino](https://img.shields.io/badge/Trino-DD0031?style=for-the-badge&logo=trino&logoColor=white)
